@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\controllers\\dtdbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\controllers\\dtdbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\views\\shared\\_dtdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\views\\shared\\_dtdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\views\\dtdbook\\dtdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\views\\dtdbook\\dtdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\views\\dtdbook\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\views\\dtdbook\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\views\\dtdhome\\dtdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\views\\dtdhome\\dtdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\views\\dtdbook\\dtddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\views\\dtdbook\\dtddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\views\\dtdbook\\dtdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\views\\dtdbook\\dtdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\models\\dtdbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\models\\dtdbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\dtdlesson04\\dtdlesson04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE249DF9-BC5D-4EBA-B126-A9C596B163E0}|DtdLesson04\\DtdLesson04.csproj|solutionrelative:dtdlesson04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DtdDelete.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\DtdBook\\DtdDelete.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson04\\Views\\DtdBook\\DtdDelete.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\DtdBook\\DtdDelete.cshtml",
+              "RelativeToolTip": "DtdLesson04\\Views\\DtdBook\\DtdDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T03:50:59.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DtdEdit.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\DtdBook\\DtdEdit.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson04\\Views\\DtdBook\\DtdEdit.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\DtdBook\\DtdEdit.cshtml",
+              "RelativeToolTip": "DtdLesson04\\Views\\DtdBook\\DtdEdit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T03:42:16.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DtdCreate.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\DtdBook\\DtdCreate.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson04\\Views\\DtdBook\\DtdCreate.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\DtdBook\\DtdCreate.cshtml",
+              "RelativeToolTip": "DtdLesson04\\Views\\DtdBook\\DtdCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T03:31:38.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DtdHomeController.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Controllers\\DtdHomeController.cs",
+              "RelativeDocumentMoniker": "DtdLesson04\\Controllers\\DtdHomeController.cs",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Controllers\\DtdHomeController.cs",
+              "RelativeToolTip": "DtdLesson04\\Controllers\\DtdHomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:28:53.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DtdIndex.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\DtdBook\\DtdIndex.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson04\\Views\\DtdBook\\DtdIndex.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\DtdBook\\DtdIndex.cshtml",
+              "RelativeToolTip": "DtdLesson04\\Views\\DtdBook\\DtdIndex.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T02:55:39.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DtdAbout.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\DtdHome\\DtdAbout.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson04\\Views\\DtdHome\\DtdAbout.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\DtdHome\\DtdAbout.cshtml",
+              "RelativeToolTip": "DtdLesson04\\Views\\DtdHome\\DtdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T02:16:51.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_DtdLayout.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\Shared\\_DtdLayout.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson04\\Views\\Shared\\_DtdLayout.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\Shared\\_DtdLayout.cshtml",
+              "RelativeToolTip": "DtdLesson04\\Views\\Shared\\_DtdLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T01:28:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DtdBookController.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Controllers\\DtdBookController.cs",
+              "RelativeDocumentMoniker": "DtdLesson04\\Controllers\\DtdBookController.cs",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Controllers\\DtdBookController.cs",
+              "RelativeToolTip": "DtdLesson04\\Controllers\\DtdBookController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:35:15.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DtdBook.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Models\\DtdBook.cs",
+              "RelativeDocumentMoniker": "DtdLesson04\\Models\\DtdBook.cs",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Models\\DtdBook.cs",
+              "RelativeToolTip": "DtdLesson04\\Models\\DtdBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:30:38.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson04\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "DtdLesson04\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T01:29:39.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson04\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "DtdLesson04\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T01:28:49.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Program.cs",
+              "RelativeDocumentMoniker": "DtdLesson04\\Program.cs",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson04\\DtdLesson04\\Program.cs",
+              "RelativeToolTip": "DtdLesson04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:27:33.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

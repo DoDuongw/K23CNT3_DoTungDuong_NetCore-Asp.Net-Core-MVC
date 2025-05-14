@@ -1,0 +1,25 @@
+﻿@model DtdLesson04.Models.DtdBook
+
+@{
+    ViewData["Title"] = "Xác nhận xóa";
+    Layout = "_DtdLayout";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-center">Xác nhận xóa sách</h2>
+
+    <div class="card shadow">
+        <div class="card-body">
+            <h5 class="card-title">Bạn có chắc chắn muốn xoá sách "<strong>@Model.DtdTitle</strong>"?</h5>
+            <p><strong>Mô tả:</strong> @Model.DtdDescription</p>
+            <p><strong>Giá:</strong> @Model.DtdPrice</p>
+            <p><strong>Số trang:</strong> @Model.DtdPage</p>
+
+            <form asp-action="DtdDeleteSubmit" method="post">
+                <input type="hidden" asp-for="DtdId" />
+                <button type="submit" class="btn btn-danger">Xóa</button>
+                <a asp-action="DtdIndex" class="btn btn-secondary">Hủy</a>
+            </form>
+        </div>
+    </div>
+</div>

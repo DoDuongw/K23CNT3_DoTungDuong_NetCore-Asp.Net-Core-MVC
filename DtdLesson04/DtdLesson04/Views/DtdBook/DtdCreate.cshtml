@@ -1,0 +1,52 @@
+﻿@model DtdLesson04.Models.DtdBook
+
+@{
+    ViewData["Title"] = "Thêm sách mới";
+    Layout = "_DtdLayout";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Thêm sách mới</h2>
+
+    <form asp-action="DtdCreateSubmit" method="post" class="border p-4 rounded shadow bg-light">
+        <div class="mb-3">
+            <label asp-for="DtdTitle" class="form-label">Tiêu đề</label>
+            <input asp-for="DtdTitle" class="form-control" />
+            <span asp-validation-for="DtdTitle" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="DtdDescription" class="form-label">Mô tả</label>
+            <textarea asp-for="DtdDescription" class="form-control"></textarea>
+            <span asp-validation-for="DtdDescription" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="DtdImage" class="form-label">Link ảnh</label>
+            <input asp-for="DtdImage" class="form-control" />
+            <span asp-validation-for="DtdImage" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="DtdPrice" class="form-label">Giá</label>
+            <input asp-for="DtdPrice" class="form-control" />
+            <span asp-validation-for="DtdPrice" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="DtdPage" class="form-label">Số trang</label>
+            <input asp-for="DtdPage" class="form-control" />
+            <span asp-validation-for="DtdPage" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Thêm</button>
+        <a asp-action="Index" class="btn btn-secondary">Huỷ</a>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+      await Html.RenderPartialAsync("_ValidationScriptsPartial");
