@@ -1,0 +1,31 @@
+﻿@model IEnumerable<DtdLesson05.Models.DataModels.DtdMember>
+
+@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+
+<h1 class="my-4">Danh sách sinh viên</h1>
+
+<table class="table table-bordered table-hover table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Tài khoản</th>
+            <th scope="col">Mật khẩu</th>
+            <th scope="col">Họ tên</th>
+            <th scope="col">Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dtdItem in Model)
+        {
+            <tr>
+                <td>@dtdItem.DtdMembersId</td>
+                <td>@dtdItem.DtdUserName</td>
+                <td>@dtdItem.DtdPassword</td>
+                <td>@dtdItem.DtdFullName</td>
+                <td>@dtdItem.DtdEmail</td>
+            </tr>
+        }
+    </tbody>
+</table>
