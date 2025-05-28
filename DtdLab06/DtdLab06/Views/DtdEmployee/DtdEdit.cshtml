@@ -1,0 +1,54 @@
+﻿@model DtdEmployee
+
+
+@{
+    ViewBag.Title = "Chỉnh sửa nhân viên";
+}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+
+<div class="container mt-4">
+    <h2 class="mb-4">Chỉnh sửa thông tin nhân viên</h2>
+
+    <form method="post" action="/DtdEmployee/DtdEditPUT" autocomplete="off">
+        <input type="hidden" name="DtdId" value="@Model.DtdId" />
+
+        <div class="form-group">
+            <label>Họ tên</label>
+            <input type="text" name="DtdName" class="form-control" value="@Model.DtdName" required />
+        </div>
+
+        <div class="form-group">
+            <label>Ngày sinh</label>
+            <input type="date" name="DtdBirthDay" class="form-control" value="@Model.DtdBirthDay.ToString("yyyy-MM-dd")" required />
+        </div>
+
+        <div class="form-group">
+            <label>Email</label>
+            <input type="email" name="DtdEmail" class="form-control" value="@Model.DtdEmail" required />
+        </div>
+
+        <div class="form-group">
+            <label>Điện thoại</label>
+            <input type="text" name="DtdPhone" class="form-control" value="@Model.DtdPhone" required />
+        </div>
+
+        <div class="form-group">
+            <label>Lương</label>
+            <input type="number" name="DtdSalary" step="0.01" class="form-control" value="@Model.DtdSalary" required />
+        </div>
+
+        @Html.DropDownListFor(model => model.DtdStatus,
+                 new SelectList(new[]
+                 {
+        new { Value = "true", Text = "Đang làm" },
+        new { Value = "false", Text = "Nghỉ việc" }
+        }, "Value", "Text", Model.DtdStatus.ToString().ToLower()),
+                 new { @class = "form-control" }
+                 )
+
+
+
+        <button type="submit" class="btn btn-primary">✅ Cập nhật</button>
+        <a href="/DtdEmployee/DtdIndex" class="btn btn-secondary">↩️ Quay lại</a>
+    </form>
+</div>

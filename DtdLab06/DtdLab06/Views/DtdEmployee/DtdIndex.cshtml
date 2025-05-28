@@ -1,0 +1,73 @@
+﻿@model DtdLab06.Models.DtdEmployee
+
+@{
+    ViewBag.Title = "Thêm mới nhân viên";
+}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+
+<div class="container-fluid px-5">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">➕ Thêm mới nhân viên</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="DtdCreate" method="post">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="DtdName">Tên nhân viên</label>
+                        <input type="text" class="form-control" id="DtdName" name="DtdName" required />
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="DtdBirthDay">Ngày sinh</label>
+                        <input type="date" class="form-control" id="DtdBirthDay" name="DtdBirthDay" required />
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="DtdEmail">Email</label>
+                        <input type="email" class="form-control" id="DtdEmail" name="DtdEmail" required />
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="DtdPhone">Số điện thoại</label>
+                        <input type="text" class="form-control" id="DtdPhone" name="DtdPhone" required />
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="DtdSalary">Lương</label>
+                        <input type="number" class="form-control" id="DtdSalary" name="DtdSalary" required />
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="DtdStatus">Trạng thái</label>
+                        <select class="form-control" id="DtdStatus" name="DtdStatus" required>
+                            <option value="true">Đang làm</option>
+                            <option value="false">Nghỉ việc</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="text-right">
+                    <button type="submit" class="btn btn-primary">💾 Lưu</button>
+                    <a href="/DtdEmployee/DtdIndex" class="btn btn-secondary">🔙 Quay lại</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<style>
+    .form-group label {
+        font-weight: 500;
+    }
+
+    @media (max-width: 576px) {
+        .form-row
+
+    {
+        flex-direction: column;
+    }
+
+    }
+</style>

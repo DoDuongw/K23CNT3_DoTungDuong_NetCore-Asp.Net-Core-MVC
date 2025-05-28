@@ -1,0 +1,39 @@
+﻿@model DtdEmployee
+@{
+    ViewBag.Title = "Thêm nhân viên";
+}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+
+<h2 class="my-4">Thêm mới nhân viên</h2>
+
+<form method="post" action="/DtdEmployee/DtdCreateSubmit">
+    <div class="form-group">
+        <label>Họ tên</label>
+        <input type="text" name="DtdName" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Ngày sinh</label>
+        <input type="date" name="DtdBirthDay" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input type="email" name="DtdEmail" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Điện thoại</label>
+        <input type="text" name="DtdPhone" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Lương</label>
+        <input type="number" name="DtdSalary" step="0.01" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Trạng thái</label>
+        <select name="DtdStatus" class="form-control">
+            <option value="true">Đang làm</option>
+            <option value="false">Nghỉ việc</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">💾 Lưu</button>
+    <a href="/DtdEmployee/DtdIndex" class="btn btn-secondary">↩️ Quay lại</a>
+</form>

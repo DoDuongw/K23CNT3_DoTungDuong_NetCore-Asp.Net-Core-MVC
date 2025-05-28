@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lhK0YVIYp6g=",
+  "dgSpecHash": "B1pSJO6CKuk=",
   "success": true,
-  "projectFilePath": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\DtdLesson05\\DtdLesson05\\DtdLesson05.csproj",
+  "projectFilePath": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson05\\DtdLesson05\\DtdLesson05.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atgdo\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\atgdo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
