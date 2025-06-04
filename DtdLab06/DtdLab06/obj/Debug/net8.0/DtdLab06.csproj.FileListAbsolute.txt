@@ -229,3 +229,15 @@ D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\DtdLab06\DtdLab06\obj
 D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.pdb
 D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.genruntimeconfig.cache
 D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\ref\DtdLab06.dll
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.csproj.AssemblyReference.cache
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.AssemblyInfoInputs.cache
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.AssemblyInfo.cs
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.csproj.CoreCompileInputs.cache
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.MvcApplicationPartsAssemblyInfo.cache
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.RazorAssemblyInfo.cache
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.RazorAssemblyInfo.cs
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.sourcelink.json
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.dll
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\refint\DtdLab06.dll
+D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLab06\DtdLab06\obj\Debug\net8.0\DtdLab06.pdb
