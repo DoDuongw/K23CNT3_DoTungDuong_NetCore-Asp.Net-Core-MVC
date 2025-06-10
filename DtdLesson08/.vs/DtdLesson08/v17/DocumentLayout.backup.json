@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F98D2C87-C9F3-4065-A774-270802EB4205}|DtdLesson08\\DtdLesson08.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtdlesson08\\dtdlesson08\\views\\shared\\_dtdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F98D2C87-C9F3-4065-A774-270802EB4205}|DtdLesson08\\DtdLesson08.csproj|solutionrelative:dtdlesson08\\views\\shared\\_dtdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98D2C87-C9F3-4065-A774-270802EB4205}|DtdLesson08\\DtdLesson08.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtdlesson08\\dtdlesson08\\views\\shared\\_dtdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F98D2C87-C9F3-4065-A774-270802EB4205}|DtdLesson08\\DtdLesson08.csproj|solutionrelative:dtdlesson08\\views\\shared\\_dtdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98D2C87-C9F3-4065-A774-270802EB4205}|DtdLesson08\\DtdLesson08.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtdlesson08\\dtdlesson08\\controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98D2C87-C9F3-4065-A774-270802EB4205}|DtdLesson08\\DtdLesson08.csproj|solutionrelative:dtdlesson08\\controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98D2C87-C9F3-4065-A774-270802EB4205}|DtdLesson08\\DtdLesson08.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtdlesson08\\dtdlesson08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98D2C87-C9F3-4065-A774-270802EB4205}|DtdLesson08\\DtdLesson08.csproj|solutionrelative:dtdlesson08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98D2C87-C9F3-4065-A774-270802EB4205}|DtdLesson08\\DtdLesson08.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtdlesson08\\dtdlesson08\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F98D2C87-C9F3-4065-A774-270802EB4205}|DtdLesson08\\DtdLesson08.csproj|solutionrelative:dtdlesson08\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\DtdLesson08\\Program.cs",
+              "RelativeDocumentMoniker": "DtdLesson08\\Program.cs",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\DtdLesson08\\Program.cs",
+              "RelativeToolTip": "DtdLesson08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:16:48.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\DtdLesson08\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson08\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\DtdLesson08\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DtdLesson08\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T04:16:46.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DtdHomeController.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\DtdLesson08\\Controllers\\DtdHomeController.cs",
+              "RelativeDocumentMoniker": "DtdLesson08\\Controllers\\DtdHomeController.cs",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\DtdLesson08\\Controllers\\DtdHomeController.cs",
+              "RelativeToolTip": "DtdLesson08\\Controllers\\DtdHomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:13:52.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_DtdNavbar.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\DtdLesson08\\Views\\Shared\\_DtdNavbar.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson08\\Views\\Shared\\_DtdNavbar.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\DtdLesson08\\Views\\Shared\\_DtdNavbar.cshtml",
+              "RelativeToolTip": "DtdLesson08\\Views\\Shared\\_DtdNavbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T04:07:04.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_DtdLayout.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\DtdLesson08\\Views\\Shared\\_DtdLayout.cshtml",
+              "RelativeDocumentMoniker": "DtdLesson08\\Views\\Shared\\_DtdLayout.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\DtdLesson08\\DtdLesson08\\Views\\Shared\\_DtdLayout.cshtml",
+              "RelativeToolTip": "DtdLesson08\\Views\\Shared\\_DtdLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T03:52:26.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
