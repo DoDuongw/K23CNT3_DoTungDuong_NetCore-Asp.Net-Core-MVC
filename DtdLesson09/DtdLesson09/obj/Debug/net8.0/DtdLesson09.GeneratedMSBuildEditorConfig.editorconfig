@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DtdLesson09
+build_property.RootNamespace = DtdLesson09
+build_property.ProjectDir = D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLesson09\DtdLesson09\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\NetCoreMVC\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\DtdLesson09\DtdLesson09
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/NetCoreMVC/K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC/K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC/DtdLesson09/DtdLesson09/Views/Home/DtdAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEdGRBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC/K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC/DtdLesson09/DtdLesson09/Views/Home/DtdIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEdGRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC/K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC/DtdLesson09/DtdLesson09/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC/K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC/DtdLesson09/DtdLesson09/Views/Shared/_DtdNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EdGROYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC/K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC/DtdLesson09/DtdLesson09/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC/K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC/DtdLesson09/DtdLesson09/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC/K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC/DtdLesson09/DtdLesson09/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NetCoreMVC/K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC/K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC/DtdLesson09/DtdLesson09/Views/Shared/_DtdLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EdGRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dok9y8xq7r
