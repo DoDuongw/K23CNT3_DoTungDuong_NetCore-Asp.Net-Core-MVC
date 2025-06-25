@@ -1,0 +1,25 @@
+﻿@model List<DtdLesson10.Models.DtdPost>
+
+<h2>Danh sách bài viết</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Tiêu đề</th>
+            <th>Nội dung</th>
+            <th>Ảnh</th>
+            <th>Trạng thái</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DtdTitle</td>
+                <td>@item.DtdContent</td>
+                <td><img src="@item.DtdImage" width="100" /></td>
+                <td>@(item.DtdStatus ? "✔" : "✖")</td>
+            </tr>
+        }
+    </tbody>
+</table>
