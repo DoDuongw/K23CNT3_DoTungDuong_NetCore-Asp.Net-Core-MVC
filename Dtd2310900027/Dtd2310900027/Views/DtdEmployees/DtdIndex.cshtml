@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Dtd2310900027.Models.DtdEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">@ViewData["Title"]</h2>
+
+    <div class="mb-3">
+        <a asp-action="DtdCreate" class="btn btn-success">+ Thêm mới nhân viên</a>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-bordered table-striped">
+            <thead class="table-dark text-center">
+                <tr>
+                    <th>Tên nhân viên</th>
+                    <th>Cấp bậc</th>
+                    <th>Ngày bắt đầu</th>
+                    <th>Trạng thái</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.DtdEmpName</td>
+                        <td>@item.DtdEmpLevel</td>
+                        @item.DtdEmpStartDate?.ToString("dd/MM/yyyy")
+                        <td>
+                            @if (item.DtdEmpStatus == true)
+                            {
+                                <span class="badge bg-success">Đang làm</span>
+                            }
+                            else if (item.DtdEmpStatus == false)
+                            {
+                                <span class="badge bg-secondary">Nghỉ</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-warning text-dark">Không rõ</span>
+                            }
+                        </td>
+                        <td class="text-center">
+                            <a asp-action="DtdEdit" asp-route-id="@item.DtdEmpId" class="btn btn-sm btn-primary">Sửa</a>
+                            <a asp-action="DtdDetails" asp-route-id="@item.DtdEmpId" class="btn btn-sm btn-info text-white">Chi tiết</a>
+                            <a asp-action="DtdDelete" asp-route-id="@item.DtdEmpId" class="btn btn-sm btn-danger"
+                               onclick="return confirm('Bạn có chắc muốn xóa nhân viên này không?');">Xóa</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-warning">Không có nhân viên nào trong hệ thống.</div>
+    }
+</div>

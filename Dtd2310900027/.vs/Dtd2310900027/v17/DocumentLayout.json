@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\views\\dtdemployees\\dtdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\views\\dtdemployees\\dtdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\views\\dtdemployees\\dtddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\views\\dtdemployees\\dtddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\controllers\\dtdhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\views\\dtdemployees\\dtddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\views\\dtdemployees\\dtddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\controllers\\dtdemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\controllers\\dtdemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\views\\dtdemployees\\dtdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\views\\dtdemployees\\dtdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\views\\dtdemployees\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\views\\dtdemployees\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\models\\dotungduong_2310900027context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\models\\dotungduong_2310900027context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\views\\shared\\_dtdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\views\\shared\\_dtdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\views\\dtdhome\\dtdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\views\\dtdhome\\dtdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|d:\\netcoremvc\\k23cnt3_dotungduong_netcore(asp.net core mvc\\k23cnt3_dotungduong_netcore-asp.net-core-mvc\\dtd2310900027\\dtd2310900027\\views\\dtdhome\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B058155-3E20-4D8F-AD85-664349038EEA}|Dtd2310900027\\Dtd2310900027.csproj|solutionrelative:dtd2310900027\\views\\dtdhome\\dtdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DtdHomeController.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Controllers\\DtdHomeController.cs",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Controllers\\DtdHomeController.cs",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Controllers\\DtdHomeController.cs",
+              "RelativeToolTip": "Dtd2310900027\\Controllers\\DtdHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:51:11.327Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DtdEdit.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdEmployees\\DtdEdit.cshtml",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Views\\DtdEmployees\\DtdEdit.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdEmployees\\DtdEdit.cshtml",
+              "RelativeToolTip": "Dtd2310900027\\Views\\DtdEmployees\\DtdEdit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:29:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DtdDetails.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdEmployees\\DtdDetails.cshtml",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Views\\DtdEmployees\\DtdDetails.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdEmployees\\DtdDetails.cshtml",
+              "RelativeToolTip": "Dtd2310900027\\Views\\DtdEmployees\\DtdDetails.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:29:08.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DtdDelete.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdEmployees\\DtdDelete.cshtml",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Views\\DtdEmployees\\DtdDelete.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdEmployees\\DtdDelete.cshtml",
+              "RelativeToolTip": "Dtd2310900027\\Views\\DtdEmployees\\DtdDelete.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:28:42.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DtdCreate.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdEmployees\\DtdCreate.cshtml",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Views\\DtdEmployees\\DtdCreate.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdEmployees\\DtdCreate.cshtml",
+              "RelativeToolTip": "Dtd2310900027\\Views\\DtdEmployees\\DtdCreate.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:28:00.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DtdIndex.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdEmployees\\DtdIndex.cshtml",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Views\\DtdEmployees\\DtdIndex.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdEmployees\\DtdIndex.cshtml",
+              "RelativeToolTip": "Dtd2310900027\\Views\\DtdEmployees\\DtdIndex.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:09:39.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_DtdLayout.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\Shared\\_DtdLayout.cshtml",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Views\\Shared\\_DtdLayout.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\Shared\\_DtdLayout.cshtml",
+              "RelativeToolTip": "Dtd2310900027\\Views\\Shared\\_DtdLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T03:03:06.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DtdEmployeesController.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Controllers\\DtdEmployeesController.cs",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Controllers\\DtdEmployeesController.cs",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Controllers\\DtdEmployeesController.cs",
+              "RelativeToolTip": "Dtd2310900027\\Controllers\\DtdEmployeesController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwIIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:00:17.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DtdIndex.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdHome\\DtdIndex.cshtml",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Views\\DtdHome\\DtdIndex.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdHome\\DtdIndex.cshtml",
+              "RelativeToolTip": "Dtd2310900027\\Views\\DtdHome\\DtdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T02:45:38.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DtdAbout.cshtml",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdHome\\DtdAbout.cshtml",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Views\\DtdHome\\DtdAbout.cshtml",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Views\\DtdHome\\DtdAbout.cshtml",
+              "RelativeToolTip": "Dtd2310900027\\Views\\DtdHome\\DtdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T02:45:37.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\appsettings.json",
+              "RelativeDocumentMoniker": "Dtd2310900027\\appsettings.json",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\appsettings.json",
+              "RelativeToolTip": "Dtd2310900027\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T02:25:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoTungDuong_2310900027Context.cs",
+              "DocumentMoniker": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Models\\DoTungDuong_2310900027Context.cs",
+              "RelativeDocumentMoniker": "Dtd2310900027\\Models\\DoTungDuong_2310900027Context.cs",
+              "ToolTip": "D:\\NetCoreMVC\\K23CNT3_DoTungDuong_NetCore(Asp.Net Core MVC\\K23CNT3_DoTungDuong_NetCore-Asp.Net-Core-MVC\\Dtd2310900027\\Dtd2310900027\\Models\\DoTungDuong_2310900027Context.cs",
+              "RelativeToolTip": "Dtd2310900027\\Models\\DoTungDuong_2310900027Context.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T02:21:26.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

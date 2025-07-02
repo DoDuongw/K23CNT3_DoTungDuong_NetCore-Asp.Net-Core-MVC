@@ -1,0 +1,57 @@
+﻿@model Dtd2310900027.Models.DtdEmployee
+
+@{
+    ViewData["Title"] = "Chỉnh sửa nhân viên";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="DtdEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" asp-for="DtdEmpId" />
+
+            <div class="form-group mb-3">
+                <label asp-for="DtdEmpName" class="form-label"></label>
+                <input asp-for="DtdEmpName" class="form-control" />
+                <span asp-validation-for="DtdEmpName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="DtdEmpLevel" class="form-label"></label>
+                <input asp-for="DtdEmpLevel" class="form-control" />
+                <span asp-validation-for="DtdEmpLevel" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="DtdEmpStartDate" class="form-label"></label>
+                <input asp-for="DtdEmpStartDate" class="form-control" type="date" />
+                <span asp-validation-for="DtdEmpStartDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="DtdEmpStatus" class="form-label"></label>
+                <select asp-for="DtdEmpStatus" class="form-select">
+                    <option value="">-- Chọn trạng thái --</option>
+                    <option value="true" selected="@(Model.DtdEmpStatus == true)">Đang làm</option>
+                    <option value="false" selected="@(Model.DtdEmpStatus == false)">Nghỉ</option>
+                </select>
+                <span asp-validation-for="DtdEmpStatus" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Lưu thay đổi" class="btn btn-primary" />
+                <a asp-action="DtdIndex" class="btn btn-secondary ms-2">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

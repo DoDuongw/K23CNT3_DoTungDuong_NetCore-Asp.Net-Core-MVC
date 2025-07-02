@@ -1,0 +1,96 @@
+﻿@model Dtd2310900027.Models.DtdEmployee
+
+@{
+    ViewData["Title"] = "Xác nhận xóa nhân viên";
+}
+
+<div class="container mt-4">
+    <h2 class="text-danger">@ViewData["Title"]</h2>
+    <p>Bạn có chắc chắn muốn xóa nhân viên sau?</p>
+
+    <div class="card border-danger mb-3">
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Tên nhân viên</dt>
+                <dd class="col-sm-9">@Model.DtdEmpName</dd>
+
+                <dt class="col-sm-3">Cấp bậc</dt>
+                <dd class="col-sm-9">@Model.DtdEmpLevel</dd>
+
+                <dt class="col-sm-3">Ngày bắt đầu</dt>
+                <dd class="col-sm-9">@Model.DtdEmpStartDate?.ToString("dd/MM/yyyy")</dd>
+
+                <dt class="col-sm-3">Trạng thái</dt>
+                <dd class="col-sm-9">
+                    @if (Model.DtdEmpStatus == true)
+                    {
+                        <span class="badge bg-success">Đang làm</span>
+                    }
+                    else if (Model.DtdEmpStatus == false)
+                    {
+                        <span class="badge bg-secondary">Nghỉ</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-warning text-dark">Không rõ</span>
+                    }
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <form asp-action="DtdDeleteConfirmed" method="post">
+        <input type="hidden" asp-for="DtdEmpId" />
+        <button type="submit" class="btn btn-danger">🗑️ Xác nhận xóa</button>
+        <a asp-action="DtdIndex" class="btn btn-secondary ms-2">🔙 Quay lại danh sách</a>
+    </form>
+</div>
+`
+@model Dtd2310900027.Models.DtdEmployee
+
+@{
+    ViewData["Title"] = "Xác nhận xóa nhân viên";
+}
+
+<div class="container mt-4">
+    <h2 class="text-danger">@ViewData["Title"]</h2>
+    <p>Bạn có chắc chắn muốn xóa nhân viên sau?</p>
+
+    <div class="card border-danger mb-3">
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Tên nhân viên</dt>
+                <dd class="col-sm-9">@Model.DtdEmpName</dd>
+
+                <dt class="col-sm-3">Cấp bậc</dt>
+                <dd class="col-sm-9">@Model.DtdEmpLevel</dd>
+
+                <dt class="col-sm-3">Ngày bắt đầu</dt>
+                <dd class="col-sm-9">@Model.DtdEmpStartDate?.ToString("dd/MM/yyyy")</dd>
+
+                <dt class="col-sm-3">Trạng thái</dt>
+                <dd class="col-sm-9">
+                    @if (Model.DtdEmpStatus == true)
+                    {
+                        <span class="badge bg-success">Đang làm</span>
+                    }
+                    else if (Model.DtdEmpStatus == false)
+                    {
+                        <span class="badge bg-secondary">Nghỉ</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-warning text-dark">Không rõ</span>
+                    }
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <form asp-action="DtdDeleteConfirmed" method="post">
+        <input type="hidden" asp-for="DtdEmpId" />
+        <button type="submit" class="btn btn-danger">🗑️ Xác nhận xóa</button>
+        <a asp-action="DtdIndex" class="btn btn-secondary ms-2">🔙 Quay lại danh sách</a>
+    </form>
+</div>
+`
